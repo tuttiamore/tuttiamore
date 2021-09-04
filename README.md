@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-- I'm a full-stack web developer currently living in Leipzig, Germany. Passionate about coding, data science, psychology and dolce vita 👨‍💻💙🍕
+- I'm a full-stack web developer currently living in Leipzig, Germany. Passionate about coding, data science and psychology 👨‍💻💙🍕
   
 - After starting my coding journey with R, I recently graduated from [WBS Coding School](https://www.wbscodingschool.com/), gaining proficiency in applying the MERN stack and related technologies ⚡    
 
