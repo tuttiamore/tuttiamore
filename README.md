@@ -12,7 +12,7 @@
 - I'm a full-stack web developer currently living in Leipzig, Germany. Passionate about quality code, best practices, UI/UX and yummy Asian food
  👨‍💻💙🥡
   
-- After starting my coding journey with R, I recently graduated from [WBS Coding School](https://www.wbscodingschool.com/), gaining proficiency in applying the MERN stack and related technologies ⚡    
+- After starting my coding journey with R, I recently graduated from [WBS Coding School](https://www.wbscodingschool.com/), gaining proficiency in applying the MERN stack and related technologies. I am currently learning TypeScript ⚡
 
 - FYI: Having worked 6+ years in science, I can not only craft tailored web apps for you, but also help you with the statistical analyses of your data 📈  
   
